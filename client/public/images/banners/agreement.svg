@@ -1,0 +1,204 @@
+<svg 
+  id="196ecc45-c3c6-4b7d-8685-374129418fe3" 
+  data-name="Layer 1" 
+  xmlns="http://www.w3.org/2000/svg" 
+  xmlns:xlink="http://www.w3.org/1999/xlink" 
+  width="885" 
+  height="856.96" 
+  viewBox="0 0 885 856.96"
+>
+  <defs>
+    <linearGradient 
+      id="431b905b-f630-4d26-9705-072736e3fa0a" 
+      x1="613.19" 
+      y1="813.7" 
+      x2="613.19" 
+      y2="105.57" 
+      gradientTransform="translate(-0.86 -10.23)" 
+      gradientUnits="userSpaceOnUse"
+    >
+      <stop offset="0" stop-color="gray" stop-opacity="0.25" />
+      <stop offset="0.54" stop-color="gray" stop-opacity="0.12" />
+      <stop offset="1" stop-color="gray" stop-opacity="0.1" />
+    </linearGradient>
+
+    <linearGradient 
+      id="82c9264e-9b45-4df5-9d25-f7dacbcab158" 
+      x1="613.84" 
+      y1="152.52" 
+      x2="613.84" 
+      y2="92.5" 
+      gradientTransform="translate(-140.84 19.9)" 
+      xlink:href="#431b905b-f630-4d26-9705-072736e3fa0a"
+    />
+
+    <linearGradient 
+      id="e7f96ace-9b05-41bf-887d-5e87841d3793" 
+      x1="613.84" 
+      y1="104.78" 
+      x2="613.84" 
+      y2="33.84" 
+      gradientTransform="translate(-136.32 285.71) rotate(-24.52)" 
+      xlink:href="#431b905b-f630-4d26-9705-072736e3fa0a"
+    />
+
+    <linearGradient 
+      id="0e5c1f30-7912-44d8-85da-be3b7e04fbbd" 
+      x1="440.4" 
+      y1="329.87" 
+      x2="440.4" 
+      y2="222.94" 
+      gradientTransform="translate(-61.32 78.01)" 
+      xlink:href="#431b905b-f630-4d26-9705-072736e3fa0a"
+    />
+
+    <linearGradient 
+      id="f5898732-89b1-47b9-bad4-993f506fb52e" 
+      x1="440.76" 
+      y1="541.79" 
+      x2="440.76" 
+      y2="434.85" 
+      gradientTransform="translate(26.6 58.74)" 
+      xlink:href="#431b905b-f630-4d26-9705-072736e3fa0a"
+    />
+
+    <linearGradient 
+      id="f9eac279-a8ac-46d5-97b7-7547b98d8743" 
+      x1="440.4" 
+      y1="302" 
+      x2="440.4" 
+      y2="249.51" 
+      gradientTransform="translate(-293.43 264.79) rotate(-24.52)" 
+      xlink:href="#431b905b-f630-4d26-9705-072736e3fa0a"
+    />
+
+    <linearGradient 
+      id="56bc9504-3ea8-4a78-ad29-d599ef16b1a5" 
+      x1="599.62" 
+      y1="607.1" 
+      x2="599.62" 
+      y2="100.78" 
+      gradientTransform="matrix(1, 0, 0, 1, 0, 0)" 
+      xlink:href="#431b905b-f630-4d26-9705-072736e3fa0a"
+    />
+  </defs>
+  
+  <title>agreement</title>
+
+  <g opacity="0.5">
+    <rect 
+      x="356.07" 
+      y="95.34" 
+      width="512.51" 
+      height="708.13" 
+      transform="translate(-288.4 273.74) rotate(-24.52)" 
+      fill="url(#431b905b-f630-4d26-9705-072736e3fa0a)"
+    />
+  </g>
+  
+  <rect 
+    x="361.51" 
+    y="100.79" 
+    width="499.47" 
+    height="692.48" 
+    transform="translate(-287.52 273.08) rotate(-24.52)" 
+    fill="#fff"
+  />
+  
+  <rect 
+    x="349.12" 
+    y="112.4" 
+    width="247.78" 
+    height="60.02" 
+    transform="translate(-173.56 188.23) rotate(-24.52)" 
+    fill="url(#82c9264e-9b45-4df5-9d25-f7dacbcab158)"
+  />
+
+  <path 
+    d="M436.21,61.74c-17.4,7.94-24.92,28.82-16.79,46.64s28.83,25.83,46.23,17.89,24.92-28.82,16.79-46.64S453.61,53.8,436.21,61.74Zm23.21,50.88a20.47,20.47,0,1,1,9.69-26.91A20.23,20.23,0,0,1,459.42,112.63Z" 
+    transform="translate(-157.12 -20.92)" 
+    fill="url(#e7f96ace-9b05-41bf-887d-5e87841d3793)"
+  />
+  
+  <rect 
+    x="351.19" 
+    y="112.55" 
+    width="242.56" 
+    height="57.38" 
+    transform="translate(-173.12 187.91) rotate(-24.52)" 
+    fill="#2962ff"
+  />
+
+  <path 
+    d="M437.29,64.12a33.91,33.91,0,1,0,44.92,16.78A33.91,33.91,0,0,0,437.29,64.12Zm22.19,48.65a19.56,19.56,0,1,1,9.68-25.92A19.56,19.56,0,0,1,459.48,112.76Z" 
+    transform="translate(-157.12 -20.92)" 
+    fill="#2962ff"
+  />
+
+  <rect 
+    x="325.61" 
+    y="300.95" 
+    width="106.94" 
+    height="106.94" 
+    transform="translate(-270.02 168.37) rotate(-24.52)" 
+    fill="url(#0e5c1f30-7912-44d8-85da-be3b7e04fbbd)"
+  />
+  
+  <rect 
+    x="413.89" 
+    y="493.6" 
+    width="106.94" 
+    height="106.94" 
+    transform="translate(-342.01 222.39) rotate(-24.52)" 
+    fill="url(#f5898732-89b1-47b9-bad4-993f506fb52e)"
+  />
+
+  <rect 
+    x="329.52" 
+    y="304.86" 
+    width="99.11" 
+    height="99.11" 
+    transform="translate(-270.02 168.37) rotate(-24.52)" 
+    fill="#69f0ae"
+  />
+
+  <rect 
+    x="416.66" 
+    y="495.88" 
+    width="99.11" 
+    height="99.11" 
+    transform="translate(-341.44 221.76) rotate(-24.52)" 
+    fill="#2962ff"
+  />
+
+  <rect 
+    x="471.46" 
+    y="260.92" 
+    width="135.85" 
+    height="9.48" 
+    transform="translate(-218.73 226.9) rotate(-24.52)" 
+    fill="#e0e0e0"
+  />
+  
+  <rect 
+    x="473.37" 
+    y="255.5" 
+    width="224.31" 
+    height="9.48" 
+    transform="translate(-191.59 215.27) rotate(-24.52)" 
+    fill="#424242"
+  />
+
+  <g>
+    <path 
+      d="M497.88,529.21l17.81,35.47h37.69L503,603.15l17.81,35.47H483.06L497.88,529.21Z" 
+      transform="translate(-157.12 -20.92)" 
+      fill="url(#f9eac279-a8ac-46d5-97b7-7547b98d8743)"
+    />
+    <path 
+      d="M497.88,529.21l17.81,35.47h37.69L503,603.15l17.81,35.47H483.06L497.88,529.21Z" 
+      transform="translate(-157.12 -20.92)" 
+      fill="url(#56bc9504-3ea8-4a78-ad29-d599ef16b1a5)"
+    />
+  </g>
+</svg>

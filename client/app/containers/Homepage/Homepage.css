@@ -1,0 +1,106 @@
+/* Homepage.css */
+
+/* Ensure the homepage is centered */
+.homepage {
+    justify-content: center;
+    text-align: center;
+    overflow: hidden;
+    flex-wrap: wrap;
+    align-items: center;
+    display: flex;
+
+    /* Hide images as they slide out of view */
+}
+
+.image-slider-container-outer {
+    background-image: url('background1.jpg');
+    width: 100%;
+    align-items: center;
+    display: flex;
+    margin-left: 0;
+
+}
+
+.text {
+    flex: 1;
+    padding-left: 60px;
+    text-align: center;
+    max-width: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    .p {
+        font-size: medium;
+    }
+}
+
+.textfont {
+    font-size: x-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(83, 11, 36);
+}
+
+.image-slider-container {
+    flex: 6;
+    align-items: left;
+    position: relative;
+    width: 100%;
+    /* Adjust this to control the width of the slider */
+    max-width: 600px;
+    max-height: 750px;
+    /* Max width of the image slider */
+    overflow: hidden;
+    /* Hide overflow to keep only one image in view at a time */
+}
+
+.image-slider {
+    display: flex;
+    /* Align images horizontally */
+    width: 100%;
+    animation: slideImages 14s linear infinite;
+    /* Adjust duration as needed */
+}
+
+.image-item {
+    width: 100%;
+    /* Each image takes full width of the container */
+    flex-shrink: 0;
+    /* Prevent images from shrinking */
+    object-fit: contain
+}
+
+.image-item img {
+    width: 100%;
+    /* Make the images responsive */
+    height: auto;
+    /* Keep the aspect ratio */
+    object-fit: cover;
+    /* Ensure images cover the container */
+}
+
+/* Keyframes for sliding effect */
+@keyframes slideImages {
+    0% {
+        transform: translateX(0);
+        /* Start with the first image in view */
+    }
+
+    25% {
+        transform: translateX(-100%);
+        /* Move first image out of view */
+    }
+
+    50% {
+        transform: translateX(-200%);
+        /* Second image in view */
+    }
+
+    75% {
+        transform: translateX(-300%);
+        /* Move second image out of view */
+    }
+
+    100% {
+        transform: translateX(-400%);
+        /* Reset back to the first image */
+    }
+}
