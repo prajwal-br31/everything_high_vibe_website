@@ -27,6 +27,6 @@ Step 1 : CLone the repository and cd into the folder
 * Create `.env` file for both client and server. See examples:
 *  [In /client folder add .env ](client/.env.example)
 *  [In /server folder add .env](server/.env.example)
-* Step 4 : run db seed command - npm run seed : db [adminUsernmae] [password] (It creates a db with admin username and password)
+* Step 4 : run db seed command - npm run seed : db [adminUsernmae] [password] (Make sure mongodb server is started)
 * Step 5 : Start development - npm run dev
 
