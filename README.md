@@ -32,11 +32,9 @@ Tech stack used for the website :
 
 4. Add ENV files
 
-    ```
     Create `.env` file for both client and server. See examples:
 *    [In /client folder add .env ](client/.env.example)
 *    [In /server folder add .env](server/.env.example)
-    ```
 
 5. Make sure mongodb server is started and then run db seed command ( give username and password )
 
