@@ -27,7 +27,7 @@
   ],
   "author": "PRAJWAL B R (https://github.com/prajwal-br31)",
   "license": "MIT",
-  "homepage": "https://github.com/prajwal-br31/everything_high_vibe_website/blob/main/README.md",
+  "homepage": "https://github.com/prajwal-br31/everything_high_vibe_website#README.md",
   "devDependencies": {
     "cross-env": "^5.2.1",
     "npm-run-all": "^4.1.5"
