@@ -68,7 +68,7 @@ Backend API server is running at localhost:3000.
         cd client
         npm run build
         <!-- This creates a build folder dist/ -->
-        pm2 serve dist 8080 --name "client_server"
+        pm2 serve dist/ 8080 --name "client_server" --spa
         <!-- Client is now running at http://your.public.ip.address:8080 ( Make sure to allow traffic for port 8080 in ec2 instace security groups ) -->
         <!-- Cd into server/ folder -->
         cd ../
