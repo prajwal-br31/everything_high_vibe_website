@@ -3,16 +3,13 @@ E-commerce website
 See the hosted application [Hosted on AWS ] - https://everythinghighvibe.com/ 
 
 ## This application, built using MERN Stack and servers as an e-commerce website.
-<br>
 Some of the features include:
-<br>
   * Role based login for users and admins.
   * Admins can add products, brands and categories. They can view all orders and update status, approve or reject reviews.
   * Users can shop based on category of products or brands, search and filter based on price or rating. Users can wishlist and place order. They can also leave reviews on products.
   * Email is sent upon user registration, order confirmation and upon contact page submit.
 
 Tech stack used for the website : 
-<br>
   * Node provides the backend environment for this application
   * Express middleware is used to handle requests, routes
   * Mongoose schemas to model the application data
