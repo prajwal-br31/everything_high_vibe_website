@@ -104,3 +104,25 @@
         /* Reset back to the first image */
     }
 }
+@media (max-width: 768px) {
+
+    /* Single image container for mobile */
+    .image-single-container {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+
+    }
+
+    .image-single {
+        max-width: 100%;
+        max-height: 400px;
+        object-fit: cover;
+    }
+
+    .h2style {
+        text-align: center;
+    }
+}
